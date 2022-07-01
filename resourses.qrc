@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MaterialDesign.js</file>
+        <file>db.json</file>
+        <file>db_crypt.json</file>
+        <file>password_crypt.txt</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>MaterialIcons-Regular.ttf</file>
+    </qresource>
+</RCC>

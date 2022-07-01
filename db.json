@@ -1,0 +1,21 @@
+{
+    "sites": [
+        {
+            "site": "vk.com",
+            "login": "aSAkw7w=",
+            "password": "WC0gzbw="
+        },
+
+        {
+            "site": "instagram.com",
+            "login": "SSA32g==",
+            "password": "WC0gzbwtpPii"
+        },
+
+        {
+            "site": "github.com",
+            "login": "RCkqw+J+/KA=",
+            "password": "RCkqw+J+/KDxBydN8lVoKA4y+Q=="
+        }
+    ]
+}
